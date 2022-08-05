@@ -5,8 +5,8 @@ from configparser import ConfigParser
 from tkinter import messagebox
 import subprocess
 
-src = r'PATH'
-update_ini = r'PATH'
+src = r'PATH_TO latest version'
+update_ini = r'PATH_TO version file'
 
 def get_app_name(src):
     app_name = []
